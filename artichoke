@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en-US">
+    <header>index.html</header>
+    <head>indexx.html</head>
+    <body>
+        <label="Username">Username: </label>
+        <input id="Username" type="text" placeholder="Enter da username here brudda!">
+        <br>
+        <label="Password">Password: </label>
+        <input id="Password" type="password" placeholder="Enter your password here m8!">
+        <br>
+        <button>Log In</button>
+    </body>
+</html>
